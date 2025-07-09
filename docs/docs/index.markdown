@@ -3,4 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: "ソフトウェア工学 2025"
 ---
+
+#ソフトウェア工学2025
+
+git/github演習
