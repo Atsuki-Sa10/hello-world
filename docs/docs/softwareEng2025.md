@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "software Eng. lecture note
-permaLink: /docs/docs/softwareEng2025
+title: "software Eng. lecture note"
+permalink: /docs/docs/softwareEng2025
 ---
 
 # ソフトウェアの定義
